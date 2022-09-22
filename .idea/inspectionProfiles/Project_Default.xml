@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.hidden_service_check_connection" />
+          <option value="main.proxies" />
+          <option value="main.url_server_upload" />
+          <option value="main.e" />
+          <option value="dennoweb.hello_world.urls.hello_world" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
